@@ -1,0 +1,10 @@
+/* ----------------------------- *\
+|             $otrs           |
+\* ----------------------------- */
+article {
+    background-attachment: fixed;
+    margin:0;
+    background: $color-brand;
+    font-family: $basefont;
+    color: $color-success;
+}

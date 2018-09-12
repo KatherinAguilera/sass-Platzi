@@ -1,0 +1,23 @@
+/* ----------------------------- *\
+|             $COLORS             |
+\* ----------------------------- */
+/* ----------------------------- *\
+|             $otrs           |
+\* ----------------------------- */
+article {
+  background-attachment: fixed;
+  margin: 0;
+  background: #ea83ee;
+  font-family: "Quicksand", sans-serif;
+  color: #5bb75b; }
+
+body {
+  margin: 2px;
+  background: #ea83ee; }
+
+h1 {
+  background: #dbd879;
+  margin: 0; }
+
+p {
+  background: #4268dd; }

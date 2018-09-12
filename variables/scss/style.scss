@@ -1,0 +1,29 @@
+//Librerias, settings, variables
+@import "lib/variables";
+
+//Elementos base
+@import "tablas";
+@import "base/botones";
+@import "base/tipografias";
+@import "base/links";
+
+//Componentes
+@import "components/grids";
+
+// Esto va de último
+@import'components/utilities';
+
+
+
+
+body{
+    margin:2px;
+    background: $color-brand;
+}
+h1{
+    background: $color-secondary;
+    margin: 0;
+}
+p{
+  background: $color-info;
+}

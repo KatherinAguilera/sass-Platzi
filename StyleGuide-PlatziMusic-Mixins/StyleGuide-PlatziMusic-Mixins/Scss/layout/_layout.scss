@@ -1,0 +1,17 @@
+section {
+   @include max-width;
+   background-color:$color-info;
+   border-radius: $border-radius;
+   @include respond-to(1000px) {
+       background-color:$color-error;
+   }
+//    background-color: $color-lightgrey;
+   padding: $padding;
+}
+.max-width--huge {
+    @include max-width(80%);
+}
+
+header {
+    background-color: $color-brand;
+}

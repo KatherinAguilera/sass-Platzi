@@ -1,0 +1,16 @@
+{
+    "version": 3,
+    "mappings": "ACAA;;mCAEmC;ACFnC;;mCAEmC;AACnC,AAAA,OAAO,CAAC;EACJ,qBAAqB,EAAE,KAAK;EAC5B,MAAM,EAAC,CAAC;EACR,UAAU,EDHA,OAAO;ECIjB,WAAW,EDUJ,WAAW,EAAE,UAAU;ECT9B,KAAK,EDMO,OAAgB;CCL/B;;AFSD,AAAA,IAAI,CAAA;EACA,MAAM,EAAC,GAAG;EACV,UAAU,ECjBA,OAAO;CDkBpB;;AACD,AAAA,EAAE,CAAA;EACE,UAAU,ECnBI,OAAkB;EDoBhC,MAAM,EAAE,CAAC;CACZ;;AACD,AAAA,CAAC,CAAA;EACC,UAAU,ECdC,OAAiB;CDe7B",
+    "sources": [
+        "style.scss",
+        "lib/_variables.scss",
+        "_tablas.scss",
+        "base/_botones.scss",
+        "base/_tipografias.scss",
+        "base/_links.scss",
+        "components/_grids.scss",
+        "components/_utilities.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}
